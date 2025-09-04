@@ -1,1 +1,1 @@
-# Auto-Adjust-Accordion
+# Auto-Adjust-Accordion Using JS
